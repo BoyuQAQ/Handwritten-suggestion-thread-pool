@@ -1,0 +1,1 @@
+通过在Viual Studio上进行远程连接，并配置根目录，进行编译，在Linux中指定文件夹中找到/project/threadpool/bin/x64/Debug里边的后缀名为.out的可执行程序，进行./threadpool.out命令运行，即可输出。
